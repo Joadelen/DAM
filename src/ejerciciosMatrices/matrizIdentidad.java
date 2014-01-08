@@ -18,6 +18,8 @@ public class matrizIdentidad {
         return c;
     }
     
+    /*lalalalalalalalalalalala*/
+    
     public static int[][] generar_matriz2(){
         int[][] c=new int[3][3]; // cuando creas una matriz con new, el propio entorno la inicializa con ceros
         for(int i=0;i<c.length;i++){
